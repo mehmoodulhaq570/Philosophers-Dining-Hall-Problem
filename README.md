@@ -1,5 +1,3 @@
-# Philosopher-Dining-Problem
-
 # Dining Philosophers Problem in Python
 
 This repository contains a Python implementation of the Dining Philosophers problem. The Dining Philosophers problem is a classic synchronization and concurrency problem that explores challenges in resource sharing among multiple processes or threads.
