@@ -20,12 +20,15 @@ The dining philosopher’s problem is a typical synchronization problem. A group
 Here's a representation of a solution:
 ## 1.	Concurrency and Threading:
   •	The code represents each philosopher as an individual thread, allowing multiple philosophers to execute concurrently.
+  
   •	The threading module is utilized for creating and managing threads.
 ## 2.	Resource Allocation and Synchronization:
   •	The code employs a locking mechanism (threading.Lock) to ensure mutual exclusion, preventing multiple philosophers from accessing shared resources simultaneously.
+  
   •	Conditions (threading.Condition) are used to coordinate the synchronization between philosophers, allowing them to communicate and signal each other based on their states.
 ## 3.	Philosopher States:
   •	The state of each philosopher is represented by the state list, where 0 indicates thinking, 1 indicates being hungry, and 2 indicates eating.
+  
   •	Transitions between states are managed to prevent conflicts and ensure that no two adjacent philosophers are eating at the same time.
 
 
