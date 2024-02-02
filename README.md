@@ -31,5 +31,5 @@ Here's a representation of a solution:
   
   •	Transitions between states are managed to prevent conflicts and ensure that no two adjacent philosophers are eating at the same time.
 
-For issues or feedback, please contact me at mehmodulhaq1040@gmail.com.
+For issues or feedback, please contact me at mehmodulhaq1040@gmail.com...
 
