@@ -2,6 +2,13 @@
 
 This repository contains a Python implementation of the Dining Philosophers problem. The Dining Philosophers problem is a classic synchronization and concurrency problem that explores challenges in resource sharing among multiple processes or threads.
 
+## Contributors
+
+- Mehmood Ul Haq
+- Muhammad Shahzaib
+- Kashif Muneer
+- Talal Muzammil
+
 ## Problem Description
 
 - There are five philosophers sitting around a dining table.
